@@ -39,6 +39,7 @@
 
 .lista-menu__titulo {
     color: var(--laranja);
+    font-weight: 700;
 }
 
 .lista-menu__link {
@@ -46,10 +47,13 @@
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
-
     text-transform: uppercase;
 }
 
 .container__imagem {
     padding: 1em;
+}
+
+.container__menu { 
+    display: none;
 }

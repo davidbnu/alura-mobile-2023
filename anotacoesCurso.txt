@@ -63,4 +63,5 @@ Lista comandos mobile-firs
             padding: 1em;
         }
     
-    
+
+Parei na aula 2 vídeo 16 - Banner
